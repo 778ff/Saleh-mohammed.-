@@ -1,0 +1,4 @@
+void main() {
+  String studentData = 'Name: Saleh Mohammed\nID: 52222205\nLevel: 3';
+  print(studentData);
+}
